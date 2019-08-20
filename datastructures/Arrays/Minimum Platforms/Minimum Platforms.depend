@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516949162 source:f:\cpp programs\datastructures\arrays\minimum platforms\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<algorithm>
+

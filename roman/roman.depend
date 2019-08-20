@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509922302 source:f:\cpp programs\roman\main.cpp
+	<iostream>
+	<string.h>
+

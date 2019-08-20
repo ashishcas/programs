@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1502994490 source:f:\cpp programs\recursivestring\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

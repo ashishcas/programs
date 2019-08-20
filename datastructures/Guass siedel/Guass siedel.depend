@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1546795070 source:f:\cpp programs\datastructures\guass siedel\main.cpp
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506361236 source:f:\cpp programs\srum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

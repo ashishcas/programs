@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507694414 source:f:\cpp programs\five8\main.c
+	<stdio.h>
+	<stdlib.h>
+

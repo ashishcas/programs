@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511279501 source:f:\cpp programs\postfixeq\main.c
+	<stdio.h>
+	<string.h>
+

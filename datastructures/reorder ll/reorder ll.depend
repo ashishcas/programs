@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1529784310 source:f:\cpp programs\datastructures\reorder ll\main.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+

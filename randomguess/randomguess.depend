@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508426876 source:f:\cpp programs\randomguess\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

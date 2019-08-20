@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518422566 source:f:\cpp programs\datastructures\dynamic programming\recursive descendent parser\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507558640 source:f:\cpp programs\stackusingll\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548064044 source:f:\cpp programs\datastructures\jacobi\main.cpp
+	<iostream>
+	<cmath>
+

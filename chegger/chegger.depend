@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507596330 source:f:\cpp programs\chegger\main.cpp
+	<iostream>
+	<iomanip>
+	<bits/stdc++.h>
+
